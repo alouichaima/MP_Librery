@@ -1,0 +1,46 @@
+﻿
+/* Style pour le titre principal */
+.display-4 {
+    color: #333; /* Couleur du texte */
+    font-size: 36px; /* Taille de la police */
+    margin-bottom: 30px; /* Marge en bas */
+}
+
+/* Style pour les sections */
+section {
+    margin-bottom: 50px; /* Marge en bas */
+}
+
+/* Style pour les colonnes */
+.col-md-4 {
+    margin-bottom: 30px; /* Marge en bas */
+}
+
+/* Style pour les images */
+img {
+    max-width: 100%; /* Largeur maximale de l'image */
+    height: auto; /* Hauteur automatique pour conserver les proportions */
+    display: block; /* Pour centrer l'image horizontalement */
+    margin: 0 auto; /* Centrer l'image horizontalement */
+    margin-bottom: 15px; /* Marge en bas */
+}
+
+/* Style pour les titres des articles */
+h4 {
+    color: #666; /* Couleur du texte */
+    font-size: 18px; /* Taille de la police */
+    margin-bottom: 10px; /* Marge en bas */
+}
+
+/* Style pour les paragraphes de description */
+p {
+    color: #999; /* Couleur du texte */
+    font-size: 14px; /* Taille de la police */
+    line-height: 1.5; /* Hauteur de ligne */
+}
+.slogan {
+    font-size: 24px;
+    color: #4e1ae0;
+    font-weight: bold;
+    text-align: center;
+}
